@@ -61,11 +61,11 @@ const InputChangeTheme = () => {
         e.preventDefault();
 
         if (answer &&  answer === objectFromApi[0].correct_answer) {
-            console.log('Oppo bello');
+            console.log('Top');
             //setShow(true);
             setShow();
         } else {
-            alert('Cuinnuti ca siti');
+            alert('Noooo - :(');
             getQuestion();
         }
     }
