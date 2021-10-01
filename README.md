@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # input-change-theme
 An example project with React JS
 =======
@@ -72,4 +72,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
->>>>>>> 4bc3823ce96db767d08d9a2ce54fdf9895e03a20
